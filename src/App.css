@@ -1,0 +1,57 @@
+.addHouseContainer{
+  width: fit-content;
+  padding: 10px;
+  margin: auto;
+}
+form{
+  border: 2.5px solid black;
+ width: fit-content;
+ margin:15px auto;
+ padding: 10px;
+ border-radius: 10px;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.addHouseContainer input{
+  margin-bottom: 15px;
+  border: 2px solid black;
+}
+
+.addHouseContainer label , select{
+  margin-right: 10px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+select{
+  border: 2px solid black;
+}
+
+#selecttag{
+  margin: 10px auto;
+  padding: 5px;
+  font-weight: 700;
+}
+
+.table{
+  border-collapse: collapse;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+tr,th,td{
+  padding: 5px;
+}
+th,table{
+  border: 2.5px solid black;
+}
+h1{
+  text-align: center;
+}
+
+
+.submitBtn{
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
